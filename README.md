@@ -1,0 +1,2 @@
+# PerTex
+Réalisation d'une technique informatique et statistique de comparaison de deux fichiers. Une méthode consistant à la conversion des données enformat texte ainsi qu'à la comparaison des textes résultants, utilisant des approches statistiques et de la régression. Le résultat final est unpourcentage d'équivalence des deux fichiers, soit 100% en cas d'égalité. Une interface graphique est à disposition.
